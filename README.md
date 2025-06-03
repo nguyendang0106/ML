@@ -53,7 +53,7 @@ Mô hình phân loại các cảm xúc cơ bản sau (có thể thay đổi theo
 
 | Loại mô hình         | Tập dữ liệu | Độ chính xác |
 |----------------------|-------------|--------------|
-| SVM (HOG + PCA)      | RAF-DB      | ~75%       |
+| SVM (HOG)            | RAF-DB      | ~75%       |
 | Random Forest        | RAF-DB      | ~63%       |
 | Logistic Regression  | RAF-DB      | ~65%       |
 | KNN                  | RAF-DB      | ~68%       |
