@@ -25,7 +25,7 @@ Dự án này xây dựng hệ thống nhận diện cảm xúc từ ảnh khuô
 
 ### 2. Mạng nơ-ron tích chập (CNN)
 - **Kiến trúc**: CNN 4 lớp
-- **Thư viện**: TensorFlow / Keras hoặc PyTorch
+- **Thư viện**: TensorFlow / Keras 
 - **Tiền xử lý**:
   - Resize ảnh
   - Lật ảnh
